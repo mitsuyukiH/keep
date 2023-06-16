@@ -11097,6 +11097,18 @@ header.masthead .masthead-heading {
     margin-bottom: 4rem;
   }
 }
+@media (max-width: 600px) {
+  header.masthead {
+    padding-top: 17rem;
+    padding-bottom: 12.5rem;
+    background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: contain;
+    
+  }
+  
+}
 #portfolio .portfolio-item {
   max-width: 26rem;
   margin-left: auto;
